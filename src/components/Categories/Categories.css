@@ -1,0 +1,18 @@
+ 
+
+.categories {
+  margin-bottom: 16px;
+}
+
+.categories h2 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #000;
+}
+
+.categories p {
+  font-size: 0.875rem;
+  color: #666;
+  margin: 0;
+}

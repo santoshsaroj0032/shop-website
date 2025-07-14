@@ -1,0 +1,24 @@
+ 
+.banner {
+  margin-bottom: 16px;
+}
+
+.banner h1 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #000;
+}
+
+.banner p {
+  font-size: 1rem;
+  margin: 0;
+  color: #333;
+}
+
+.divider {
+  height: 1px;
+  background-color: #e0e0e0;
+  margin: 16px 0;
+  width: 100%;
+}
